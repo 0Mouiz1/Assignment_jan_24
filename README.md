@@ -1,16 +1,4 @@
-# basic_calculator
+# Grade_calculator using Flutter 📲
 
-A new Flutter project.
+https://github.com/0Mouiz1/Assignment_jan_24/assets/127435963/ad35ffcb-8650-4974-8b76-001e24d42c35
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
